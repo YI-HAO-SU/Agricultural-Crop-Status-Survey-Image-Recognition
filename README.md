@@ -10,3 +10,5 @@ While there are comprehensive AI datasets in areas such as daily life, industry,
 Meeting the future demand for AI technology in smart agriculture will require substantial investment in professional manpower for the collection and analysis of agricultural-related information.
 Therefore, the challenges presented in this competition aim to assist students in understanding the application needs of agricultural datasets and image recognition in the agricultural industry. 
 It also aims to cultivate students' experience and technical capabilities in using AI technology for image recognition in the agricultural sector.
+
+* Weight :https://drive.google.com/drive/folders/1Hn5xQ2EL_i7t-jxMG-351PZHNk3-XmV1?usp=sharing
