@@ -18,6 +18,7 @@ Weight: https://drive.google.com/drive/folders/1Hn5xQ2EL_i7t-jxMG-351PZHNk3-XmV1
 - [Model structure](#3)
 - [Model training](#4)
 - [Experimental Results](#5)
+- [Reference](#6)
 
 
 
@@ -195,6 +196,15 @@ Model: EfficientNet (pre-trained weight: b5)
 - Inference Result:
 
 ![圖片](https://github.com/YeeHaoSu/Agricultural-Crop-Status-Survey-Image-Recognition/assets/90921571/995be0af-711b-4282-8b4d-5f080ad98c6b)
+
+**[⬆ back to top](#Agricultural-Crop-Status-Survey-Image-Recognition)**
+
+
+<h2 id="6">Reference</h2>
+
+1. 農地作物現況調查影像辨識競賽-秋季賽：AI作物影像判釋 https://aidea-web.tw/topic/5f632f38-7213-4d4d-bea3-117ff13c1afb
+2. Huang, Shaoli, Xinchao Wang, and Dacheng Tao. "Snapmix: Semantically proportional mixing for augmenting fine-grained data." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 2. 2021.
+3. Biau, Gérard, and Erwan Scornet. "A random forest guided tour." Test 25 (2016): 197-227.
 
 **[⬆ back to top](#Agricultural-Crop-Status-Survey-Image-Recognition)**
 
