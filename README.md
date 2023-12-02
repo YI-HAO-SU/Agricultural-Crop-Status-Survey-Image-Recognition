@@ -168,12 +168,33 @@ In addition to calculating accuracy, the evaluation methodology was extended to 
 
 <h2 id="5">Experimental Results</h2>
 
+The incorporation of enhanced methods has led to a significant improvement in evaluation results. 
+The introduction of these improvements, such as the utilization of the Random Forest model, experimentation with geographical features, and the application of a Top N bonus, has positively impacted the model's predictive accuracy.
+
+Model: EfficientNet (pre-trained weight: b5) 
+
+- Baseline:
+
+  - Best validation accuracy: 0.764  ( 23th epoch )
+
 ![圖片](https://github.com/YeeHaoSu/Agricultural-Crop-Status-Survey-Image-Recognition/assets/90921571/a869b262-4a18-4345-a282-804300cc17b9) 
 ![圖片](https://github.com/YeeHaoSu/Agricultural-Crop-Status-Survey-Image-Recognition/assets/90921571/1e05cc95-9e21-45e9-9418-5ee1b65d914b)
 ![圖片](https://github.com/YeeHaoSu/Agricultural-Crop-Status-Survey-Image-Recognition/assets/90921571/4bf5725c-88b5-4cfe-ab6a-753b0a62d711)
 
+  - Inference Result:
+
 ![圖片](https://github.com/YeeHaoSu/Agricultural-Crop-Status-Survey-Image-Recognition/assets/90921571/411e0d15-9837-4cd4-84f6-f33bbc391c0c)
 
+- Baseline + Preprocessed Data:
+  - Best validation accuracy: 0.78796  ( 50th epoch ) 
 
+![圖片](https://github.com/YeeHaoSu/Agricultural-Crop-Status-Survey-Image-Recognition/assets/90921571/252c1616-9446-481f-936e-522596e227e3)
+![圖片](https://github.com/YeeHaoSu/Agricultural-Crop-Status-Survey-Image-Recognition/assets/90921571/52e816de-7116-409a-a052-50660f17e81a)
+![圖片](https://github.com/YeeHaoSu/Agricultural-Crop-Status-Survey-Image-Recognition/assets/90921571/4bf5725c-88b5-4cfe-ab6a-753b0a62d711)
 
+- Inference Result:
+
+![圖片](https://github.com/YeeHaoSu/Agricultural-Crop-Status-Survey-Image-Recognition/assets/90921571/995be0af-711b-4282-8b4d-5f080ad98c6b)
+
+**[⬆ back to top](#Agricultural-Crop-Status-Survey-Image-Recognition)**
 
